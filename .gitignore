@@ -4,5 +4,6 @@ node_modules/  # Node.js dependencies
 venv/          # Python virtual environment
 flask/env/
 flask/venv/
+flask/.env
 backend/node_modules/
 frontend/node_modules/
