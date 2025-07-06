@@ -53,22 +53,25 @@ NyayPaksh is an intelligent, multilingual legal research engine designed to aid 
 
 ## 🖼️ Feature Screenshots
 
-> *(Add screenshots below this section using markdown image syntax or drag-and-drop in GitHub)*
+### 💡 Landing Page
+![Legal Research Engine](screenshots/landing.png)
 
 ### 🧠 Legal Research & Filtering
-![Legal Research Engine](screenshots/legal-research.png)
+![Legal Research Engine](screenshots/research.png)
+![Legal Research Engine](screenshots/summary.png)
 
 ### 📊 Precedent Analysis & Prediction
-![Precedent Analysis](screenshots/prediction-graph.png)
+![Precedent Analysis](screenshots/precedent.png)
+![Precedent Analysis](screenshots/trends.png)
 
-### 📝 Case Summary View
-![Case Summary](screenshots/case-summary.png)
+### 💬 Case Summary View & Chatbot – Vidhisarathi
+![Case Summary](screenshots/document.png)
 
-### 💬 Chatbot – Vidhisarathi
-![Legal Chatbot](screenshots/chatbot.png)
+### 📝 Case Tracker
+![Legal Chatbot](screenshots/tracker.png)
 
 ### 🌐 Multilingual Interface
-![Multilingual Support](screenshots/multilingual-ui.png)
+![Multilingual Support](screenshots/language.png)
 
 ---
 
