@@ -101,7 +101,7 @@ NyayPaksh is an intelligent, multilingual legal research engine designed to aid 
 
 --- 
 
-## 👨‍💻 Team InnoVentures
+## 👩‍💻 Team InnoVentures
 
 - Ananya Sharma
 - Atreyi Prasad
