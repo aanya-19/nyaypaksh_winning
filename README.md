@@ -51,6 +51,13 @@ NyayPaksh is an intelligent, multilingual legal research engine designed to aid 
 
 ---
 
+## 🎥 Video Demo
+
+> Watch the full walkthrough of **NyayPaksh** in action:  
+**[🔗 Click here to view the demo](https://drive.google.com/file/d/1ZGT5OXCBlg1zrKMS-4ZQxmLL7oMMUif_/view?usp=sharing)**
+
+---
+
 ## 🖼️ Feature Screenshots
 
 ### 💡 Landing Page
